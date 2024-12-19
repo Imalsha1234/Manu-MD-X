@@ -1,6 +1,6 @@
 module.exports = {
   "ALIVE_IMG": "",
-  "FOOT": "©𝐌𝐑 𝐌𝐀𝐍𝐔𝐋 𝐎𝐅𝐂 💚",
+  "FOOT": "podiya😗💗",
   "PREFIX": ".",
   "AUTO_READ_STATUS": "true",
   "MODE": "private",
@@ -15,13 +15,13 @@ module.exports = {
   "ANTI_PHOTO": "warn",
   "ANTI_STICKER": "warn",
   "ANTI_DELETE": false,
-  "DELETEMSGSENDTO": "94742274855",
+  "DELETEMSGSENDTO": "94772484733",
   "ALWAYS_ONLINE": "false",
   "MOROCCO_BLOCK": "false",
   "OWNER_NAME": "©𝐌𝐑 𝐌𝐀𝐍𝐔𝐋 𝐎𝐅𝐂 💚",
   "OWNER_NUMBER": "94742274855",
   "AUTO_BIO": "true",
-  "AUTO_TYPING": "false",
+  "AUTO_TYPING": "true",
   "AUTO_RECORDING": "false",
   "WARN_COUNT": "3",
 };

@@ -1,4 +1,4 @@
-//══════════════════════════════════════════════════════════════════════════════════════════════════════//
+  //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
 //                                    𝗠𝗔𝗡𝗨-𝗠𝗗  𝐁𝐎𝐓                                                 //
 //                                                                                                      //
@@ -43,5 +43,5 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "Manu-MD&PdEXDATI#yZ0AFD7Jpsf45oudm-QCDBcwPBH2c_gP7aQNdvAGuNM",
-};
+SESSION_ID: process.env.SESSION_ID || "Manu-MD&edsiiBJQ#ZjkxV8eeInnRCSuk-yy4R6nJAewO6cDoNMyCPlCS8ZA",
+};                                                                     
